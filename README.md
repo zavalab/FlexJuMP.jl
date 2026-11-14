@@ -43,3 +43,22 @@ There are many ways to contribute to this package:
 - Contribute with code addressing some open issues, that add new functionality or that improve the performance.
 - When contributing with code, add docstrings and comments, so others may understand the methods implemented.
 - Contribute by updating and improving the documentation.
+
+## Citing
+If you use `FlexJuMP.jl` in your work, please cite:
+
+Joshua L. Pulsipher, Daniel Rios, and Victor M. Zavala. "A computational framework for quantifying and analyzing system flexibility." *Computers & Chemical Engineering* 126 (2019): 342-355. https://doi.org/10.1016/j.compchemeng.2019.04.024
+
+Preprint: https://arxiv.org/abs/2106.12706
+
+```bibtex
+@article{pulsipher2019computational,
+  title   = {{A computational framework for quantifying and analyzing system flexibility}},
+  author  = {Pulsipher, Joshua L. and Rios, Daniel and Zavala, Victor M.},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {126},
+  pages   = {342--355},
+  year    = {2019},
+  doi     = {10.1016/j.compchemeng.2019.04.024}
+}
+```
